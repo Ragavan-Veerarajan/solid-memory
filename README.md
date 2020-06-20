@@ -1,6 +1,5 @@
 # solid-memory
 
-Wall Mart Store Analysis 
-
+Principle Component Analysis with mnist dataset
 
 
